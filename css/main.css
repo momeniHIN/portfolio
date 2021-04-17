@@ -118,6 +118,16 @@ header h3 {
     letter-spacing: 1px;
 }
 
+a{
+    text-decoration: none;
+    color: var(--accent_color);
+}
+
+a:hover{
+
+    text-decoration: underline;
+}
+
 .email, .country, .phone, 
 .twitter, .github, .status,
 .nationality{
