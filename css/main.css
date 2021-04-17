@@ -95,6 +95,7 @@ header {
 .role {
 
     margin-bottom: 0.7rem;
+    text-align: center;
 
 }
 
@@ -243,12 +244,12 @@ p {
 .left_side {
 
     width: 35%;
-    margin-right: 2%;
+    margin-right: 5%;
 }
 
 .right_side {
 
-    width: 63%;
+    width: 60%;
 }
 
 .left_side p,
